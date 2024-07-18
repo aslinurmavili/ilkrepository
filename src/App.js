@@ -10,9 +10,6 @@ function App() {
           HOŞGELDİNİZ
         </p>
         <p>
-          Yeni eklenti 2
-        </p>
-        <p>
           Git & Github Öğreniyorum w/tofi&asli
         </p>
         <a
