@@ -10,7 +10,7 @@ function App() {
           HOŞGELDİNİZ
         </p>
         <p>
-          Git & Github Öğreniyorum w/tofig
+          Git & Github Öğreniyorum w/tofi&asli
         </p>
         <a
           className="App-link"
